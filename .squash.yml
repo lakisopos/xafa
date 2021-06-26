@@ -6,7 +6,7 @@ deployments:
       2GB
   aCRM:
     filename:
-      ./Dockerfile
+      ./Dockerfile 
     vm_size:
       2GB
   sCRM:
