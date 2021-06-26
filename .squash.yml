@@ -42,6 +42,7 @@ deployments:
   kCRM:
     filename:
       ./Dockerfile
+      
     vm_size:
       2GB
   lCRM:
