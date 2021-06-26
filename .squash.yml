@@ -1,0 +1,8 @@
+deployments:
+  CRM:
+    filename:
+      ./src/crm/Dockerfile
+    context_path:
+      ./src
+    vm_size:
+      2GB
